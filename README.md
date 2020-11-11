@@ -1,7 +1,4 @@
-# deeplearning.ai_specialization2
-Cousera Deep Learning Specialization
-# Deep Learning Specialization on Coursera 
-[link](https://www.coursera.org/specializations/deep-learning)
+# [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
 Here is my personal repo for the Deep Learning Specialization as part of my pivot into Robotics and AI. 
 The specialization covers a gentle, phased introduction to deep learning over 5 courses.
