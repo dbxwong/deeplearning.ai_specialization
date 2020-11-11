@@ -6,9 +6,9 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
 1. Week1 - Introduction to Deep Learning
-2. Week2 - [Neural Networks Basics](https://github.com/dbxwong/DeepLearning.ai_specialization/blob/main/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
-3. Week3 - [Shallow neural networks](https://github.com/dbxwong/DeepLearning.ai_specialization/blob/main/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-4. Week4 - [Deep Neural Networks](https://github.com/dbxwong/DeepLearning.ai_specialization/blob/main/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
+2. Week2 - [Neural Networks Basics](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%201/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+3. Week3 - [Shallow neural networks](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%201/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+4. Week4 - [Deep Neural Networks](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%201/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
