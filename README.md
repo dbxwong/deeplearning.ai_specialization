@@ -12,10 +12,10 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
 
 ## Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-1. Week1 - [Practical aspects of Deep Learning] (WIP)
-         - Setting up your Machine Learning Application
-         - Regularizing your neural network
-         - Setting up your optimization problem
+1. Week1 - [Practical aspects of Deep Learning]
+         - [Initialization] (https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%202/Initialization.ipynb) 
+         - [Regularization] (https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%202/Regularization_v2a.ipynb)
+         - [Gradient checking] (https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%202/Gradient%2BChecking%2Bv1.ipynb) 
 2. Week2 - [Optimization algorithms] (WIP)
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks] (WIP)
 
