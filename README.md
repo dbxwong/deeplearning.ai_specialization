@@ -21,10 +21,10 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-1. Week1 - [Introduction to ML Strategy]
+1. Week1 - Introduction to ML Strategy
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - [ML Strategy (2)]
+2. Week2 - ML Strategy 2
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
@@ -32,7 +32,7 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
          
  ## Course 4. [Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
- 1. Week1 - Foundations of Convolutional Neural Networks -[CNN Step-by-step]() -[CNN model application](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Application_v1a.ipynb)
+ 1. Week1 - Foundations of Convolutional Neural Networks -[CNN Step-by-step](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Step_by_Step_v2a.ipynb) -[CNN model application](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Application_v1a.ipynb)
  2. Week2 - [Deep convolutional models: case studies] (WIP) - Papers to read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  3. Week3 - [Object detection] (WIP) - Papers to read: [You Only Look Once:
