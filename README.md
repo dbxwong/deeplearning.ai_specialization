@@ -20,11 +20,11 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
 3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%202/TensorFlow_Tutorial_v3b.ipynb)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
-
-1. Week1 - Introduction to ML Strategy
+(Scenario-based quizzes only)
+1. Week1 - Introduction to ML Strategy:
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - ML Strategy 2
+2. Week2 - ML Strategy 2:
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
