@@ -32,7 +32,7 @@ The specialization covers a gentle, phased introduction to deep learning over 5 
          
  ## Course 4. [Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
- 1. Week1 - Foundations of Convolutional Neural Networks -[CNN Step-by-step]() -[CNN model application]()
+ 1. Week1 - Foundations of Convolutional Neural Networks -[CNN Step-by-step]() -[CNN model application](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Application_v1a.ipynb)
  2. Week2 - [Deep convolutional models: case studies] (WIP) - Papers to read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
  3. Week3 - [Object detection] (WIP) - Papers to read: [You Only Look Once:
