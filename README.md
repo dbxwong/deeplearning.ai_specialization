@@ -1,7 +1,6 @@
 # [Deep Learning Specialization by deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
-Here is my personal repo for the Deep Learning Specialization as part of my pivot into Robotics and AI. 
-The specialization covers a gentle, phased introduction to deep learning over 5 courses.
+
 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
