@@ -42,4 +42,4 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  1. Week1 - [Recurrent Neural Networks](WIP)
  2. Week2 - [Natural Language Processing & Word Embeddings](WIP)
  3. Week3 - [Sequence models & Attention mechanism](WIP)
- 
+ 4. Week 4 - [Transformer Network](WIP)
