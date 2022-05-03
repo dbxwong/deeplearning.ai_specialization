@@ -34,12 +34,12 @@
  1. Week1 - Foundations of Convolutional Neural Networks -[CNN Step-by-step](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Step_by_Step_v2a.ipynb) -[CNN model application](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Convolution_model_Application_v1a.ipynb)
  2. Week2 - [Deep convolutional models: case studies] (WIP) - Papers to read:  [ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), [Very Deep Convolutional Networks For Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
- 3. Week3 - [Object detection] (WIP) - Papers to read: [You Only Look Once:
+ 3. Week3 - [Object detection] (https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Autonomous_driving_application_Car_detection.ipynb) - Papers to read: [You Only Look Once:
 Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
- 4. Week4 - [Special applications: Face recognition & Neural style transfer](WIP) - Papers to read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+ 4. Week4 - [Special applications: Face recognition & Neural style transfer] (https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%204/Transfer_learning_with_MobileNet_v1.ipynb) - Papers to read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
  
  ## Course 5. [Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
- 1. Week1 - [Recurrent Neural Networks](WIP)
- 2. Week2 - [Natural Language Processing & Word Embeddings](WIP)
- 3. Week3 - [Sequence models & Attention mechanism](WIP)
- 4. Week 4 - [Transformer Network](WIP)
+ 1. Week1 - [Recurrent Neural Networks](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%205/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+ 2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%205/Dinosaurus_Island_Character_level_language_model.ipynb)
+ 3. Week3 - [Sequence models & Attention mechanism](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%205/Neural_machine_translation_with_attention_v4a.ipynb)
+ 4. Week 4 - [Transformer Network](https://github.com/dbxwong/deeplearning.ai_specialization/blob/main/Course%205/C5_W4_A1_Transformer_Subclass_v1.ipynb)
