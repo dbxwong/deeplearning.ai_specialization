@@ -1,5 +1,7 @@
 # [Deep Learning Specialization by deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
+Revision guide for Deep Learning Specialization. 
+Learners are recommended to attempt their own problem sets first and only use this as a guide if they encounter roadblocks.
 
 
  ## Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
